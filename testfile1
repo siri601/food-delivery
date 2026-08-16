@@ -11,3 +11,35 @@ git commit -m "first code practice version 1"
 
 
 git branch
+
+
+
+ l
+ 1624  cd food-delivery/
+ 1625  ls
+ 1626  git branch
+ 1627  git push origin main
+ 1628  git pull
+ 1629  ls
+ 1630  git branch
+ 1631  ls
+ 1632  git branch -b main-copy
+ 1633  ls
+ 1634  git brnahc
+ 1635  git branch
+ 1636  ls
+ 1637  git checkout -b main-copy
+ 1638  ls
+ 1639  git branch
+ 1640  git checkout main
+ 1641  ls
+ 1642  git branch
+ 1643  git checkout main-copy
+ 1644  git branch
+ 1645  ls
+ 1646  git branch
+ 1647  git add .
+ 1648  git commit -m "nedccode"
+ 1649  git branch
+ 1650  git push origin main-copy
+ 1651  history
