@@ -1,0 +1,9 @@
+first code working code version 1
+
+commit commands:
+write code in local
+
+git add .
+git commit -m "first code practice version 1"
+
+
